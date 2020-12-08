@@ -10,3 +10,10 @@ Feel free to add your own contributions to the list
 - Restaurant menu CMS: Allow guests to see a menu and restauranteurs to update their menu
 - Bookclub: List books and allow users to leave ratings and reviews, let users add books to lists
 - Habit tracker: Let users add in habits and which days they want to do them. Have a view for graphs.
+
+You could also build a website around an API like the list below:
+
+## Free APIs
+- PokeAPI - https://pokeapi.co/
+- OMDb API - https://www.omdbapi.com/
+- NewsAPI - https://newsapi.org/
